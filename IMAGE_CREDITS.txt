@@ -1,0 +1,48 @@
+Real Cameroon school image credits
+=================================
+
+The demo uses real Cameroon education/school images from Wikimedia Commons. Please keep attribution when publishing the demo with these images, and review each image license before commercial/client use.
+
+1. cameroon-campus-yaounde.jpg
+   Source: Wikimedia Commons — File:Ecole Normale Supérieure de Yaoundé.jpg
+   Description: Higher Teacher Training College / École Normale Supérieure de Yaoundé
+   Author: Serieminou
+   License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+2. cameroon-school-gate-nkongsamba.jpg
+   Source: Wikimedia Commons — File:College Lele a Nkongsamba 01.jpg
+   Description: Entrance of Collège Lele in Nkongsamba, Cameroon
+   Author: Bile rene
+   License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+3. cameroon-classroom-ebonji.jpg
+   Source: Wikimedia Commons — File:GHS Ebonji Form 3.JPG
+   Description: Form 3 students at Government High School in Ebonji, Southwest, Cameroon
+   Author: Daniel Maginot
+   License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+4. cameroon-classroom.jpg
+   Source: Wikimedia Commons — File:SalleClasse.jpg
+   Description: Classroom photo in the Classrooms in Cameroon category
+   Author: Jamalabeng
+   License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+5. cameroon-digital-learning.jpg
+   Source: Wikimedia Commons — File:WikiChallenge African Schools 2021 in Cameroon 02.jpg
+   Description: Digital school training session in Cameroon using tablets
+   Author: Minette Lontsie / uploaded by Serieminou
+   License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+6. cameroon-tablet-workshop.jpg
+   Source: Wikimedia Commons — File:WikiChallenge African Schools 2021 Cameroon 18.jpg
+   Description: WikiChallenge African Schools 2021 training session in Cameroon
+   Author: Minette Lontsie / uploaded by Serieminou
+   License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+7. cameroon-schoolhouse-bankim.jpg
+   Source: Wikimedia Commons — File:Schoolhouse in Bankim, Cameroon.jpg
+   Description: Schoolhouse in Bankim, Cameroon
+   Author: Elin
+   License: Creative Commons Attribution 2.0 Generic (CC BY 2.0)
+
+Note: Images are included for demo/template preview. For a final client website, replacing these with the actual school's own photos is recommended.

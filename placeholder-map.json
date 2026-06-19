@@ -1,0 +1,21 @@
+{
+  "{{SCHOOL_NAME}}": "Name of the school or institution",
+  "{{SCHOOL_TYPE}}": "Type of school, for example Private School, Public School, Academy, Training Center",
+  "{{LOGO_OR_INITIALS}}": "School logo image HTML or fallback initials text / span",
+  "{{CYCLES}}": "Cycles, levels, or target school stages",
+  "{{DESCRIPTION}}": "Main school presentation description",
+  "{{ADDRESS}}": "Full school address / location",
+  "{{STUDENT_COUNT}}": "Number of learners / students",
+  "{{CLASS_COUNT}}": "Number of classes, branches, or training tracks",
+  "{{CAMPUS_COUNT}}": "Number of campus sites",
+  "{{PROGRAMS_SECTION}}": "HTML/text block for programs, cycles, or formations",
+  "{{ADMISSIONS_TEXT}}": "Admission and registration information",
+  "{{FEES}}": "School fees or fee description",
+  "{{PAYMENT_MODES}}": "Accepted payment methods",
+  "{{PAYMENT_ONLINE_INFO}}": "Online payment information or badge HTML",
+  "{{GALLERY_SECTION}}": "Dynamic gallery HTML from backend/CMS",
+  "{{POSTS_SECTION}}": "Dynamic news/posts HTML from backend/CMS",
+  "{{WHATSAPP_LINK}}": "WhatsApp CTA link HTML",
+  "{{PHONE}}": "School phone number",
+  "{{EMAIL}}": "School email address"
+}
